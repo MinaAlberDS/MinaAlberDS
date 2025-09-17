@@ -35,6 +35,6 @@ I’m passionate about turning data into insights, building predictive models, a
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaAlberDS&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaAlberDS&layout=compact&theme=dark)  
 
 ⭐️ *Thanks for visiting my profile!*
