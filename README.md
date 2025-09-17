@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Mina Alber  
 
-<!--
-**MinaAlberDS/MinaAlberDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Junior Data Science & Statistics Enthusiast**  
+🎓 Digital Cubs of Egypt Scholar | DECI Level 3 Certified (MCIT)  
 
-Here are some ideas to get you started:
+I’m passionate about turning data into insights, building predictive models, and exploring statistical approaches to real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Projects & Highlights
+- 🧩 **Titanic Survival Prediction (Kaggle)** – Feature engineering, classification models (Logistic Regression, Decision Trees, Random Forests, Gradient Boosting), and optimization.  
+- 🛒 **A/B Testing (E-commerce Website)** – Designed & analyzed experiments to improve user conversion rates.  
+- 📊 Explorations in predictive modeling, data cleaning, and optimization techniques.  
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages**: Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)  
+- **Concepts**: Data Analysis, Predictive Modeling, A/B Testing, Machine Learning, Statistics  
+- **Other**: Git/GitHub, Jupyter Notebooks  
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/minaalber](https://linkedin.com/in/minaalber)  
+- **Email**: mina.alber.ds@gmail.com
+
+---
+
+⭐️ *Thanks for visiting my profile!*
+
+
+![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaAlberDS&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaAlberDS&layout=compact)
