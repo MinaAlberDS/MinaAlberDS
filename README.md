@@ -21,7 +21,6 @@ I’m passionate about turning data into insights, building predictive models, a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/e8dc918c2a9fb1abb350f7822b2c4e18d90c7a5c/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="tensorflow" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>  
 </p>  
 
