@@ -30,7 +30,7 @@ I’m passionate about turning data into insights, building predictive models, a
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/minaalberds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mina.alber.ds@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:mina.alber.ds@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="40" /></a>
 </p>  
 
 ---
