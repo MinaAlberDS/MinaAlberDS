@@ -29,6 +29,4 @@ I’m passionate about turning data into insights, building predictive models, a
 
 ⭐️ *Thanks for visiting my profile!*
 
-
-![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaAlberDS&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaAlberDS&layout=compact)
