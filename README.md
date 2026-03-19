@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Mina Alber  
+# Hi 👋, I'm Mina Alber  
 
-🚀 **Junior Data Science & Statistics Enthusiast**  
+🚀 **Aspiring Data Scienctist**  
 🎓 Digital Cubs of Egypt Scholar | DECI Level 3 Certified (MCIT)  
 
 I’m passionate about turning data into insights, building predictive models, and exploring statistical approaches to real-world problems.  
