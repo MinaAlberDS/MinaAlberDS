@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mina Alber  
 
 🚀 **Aspiring Data Scienctist**  
-🎓 Digital Cubs of Egypt Scholar | DECI Level 3 Certified (MCIT)  
+🎓 Digital Cubs of Egypt Scholar | DECI Level 3, 4 Certified (MCIT)  
 
 I’m passionate about turning data into insights, building predictive models, and exploring statistical approaches to real-world problems.  
 
